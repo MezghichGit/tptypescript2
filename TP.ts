@@ -48,3 +48,5 @@ dispalyCours(
 let e :Etudiant  = new Etudiant("amine",20);
 let e2 :Etudiant  = new Etudiant("amine");
 e.info();
+
+console.log("Fin Typescript, Bonjour Angular!");
